@@ -33,7 +33,7 @@ A plataforma é composta por 1 página, e nela vem 1 Menu com 4 tópicos.
  
  * Home
  * O projeto 
- * MUlheres na técnologia
+ * Mulheres na técnologia
  * Galeria
 
 
