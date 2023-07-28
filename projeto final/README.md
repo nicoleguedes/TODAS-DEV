@@ -16,7 +16,7 @@ O projeto "Todas Dev" aborda um tema muito importante que é de mulheres na téc
 ## Apresentação
 
 ### Quem é Nicole Guedes?
-![nicole](https://github.com/nicoleguedes/TODAS-DEV/assets/126294617/496c4f1a-bc9e-4fbb-875c-52d34b869172)
+![WhatsApp Image 2023-07-27 at 22 13 45](https://github.com/nicoleguedes/react-s15/assets/126294617/0f0966d9-8512-4e8c-85d6-5ea20cc79dd1)
 
 Tenho 20 anos, sou técnica em Admistração e moro em Pernambuco.
 
@@ -28,16 +28,13 @@ Tenho 20 anos, sou técnica em Admistração e moro em Pernambuco.
 
 ### Estrutura do projeto
 
-![estrutura](https://github.com/nicoleguedes/TODAS-DEV/assets/126294617/728caba3-cfe7-4801-a9d8-d48096a044ac)
-
-
 
 A plataforma é composta por 1 página, e nela vem 1 Menu com 4 tópicos.
  
  * Home
  * O projeto 
- * Mulheres na técnologia
- * Galeria
+ * MUlheres na técnologia
+ * Gleria
 
 
 
