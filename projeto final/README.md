@@ -28,6 +28,9 @@ Tenho 20 anos, sou técnica em Admistração e moro em Pernambuco.
 
 ### Estrutura do projeto
 
+![estrutura](https://github.com/nicoleguedes/TODAS-DEV/assets/126294617/728caba3-cfe7-4801-a9d8-d48096a044ac)
+
+
 
 A plataforma é composta por 1 página, e nela vem 1 Menu com 4 tópicos.
  
